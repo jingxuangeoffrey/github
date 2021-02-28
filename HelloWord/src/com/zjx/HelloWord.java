@@ -9,5 +9,6 @@ public class HelloWord {
         System.out.println("HelloWord");
         System.out.println("HelloWord");
         System.out.println("看来是好了");
+        System.out.println("看来是好了");
     }
 }
